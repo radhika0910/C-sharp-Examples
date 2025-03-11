@@ -1,0 +1,9 @@
+C:\Users\bhoya\source\repos\OverloadingandRiding\OverloadingandRiding\bin\Debug\OverloadingandRiding.exe.config
+C:\Users\bhoya\source\repos\OverloadingandRiding\OverloadingandRiding\bin\Debug\OverloadingandRiding.exe
+C:\Users\bhoya\source\repos\OverloadingandRiding\OverloadingandRiding\bin\Debug\OverloadingandRiding.pdb
+C:\Users\bhoya\source\repos\OverloadingandRiding\OverloadingandRiding\obj\Debug\OverloadingandRiding.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\OverloadingandRiding\OverloadingandRiding\obj\Debug\OverloadingandRiding.Properties.Resources.resources
+C:\Users\bhoya\source\repos\OverloadingandRiding\OverloadingandRiding\obj\Debug\OverloadingandRiding.csproj.GenerateResource.cache
+C:\Users\bhoya\source\repos\OverloadingandRiding\OverloadingandRiding\obj\Debug\OverloadingandRiding.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\OverloadingandRiding\OverloadingandRiding\obj\Debug\OverloadingandRiding.exe
+C:\Users\bhoya\source\repos\OverloadingandRiding\OverloadingandRiding\obj\Debug\OverloadingandRiding.pdb

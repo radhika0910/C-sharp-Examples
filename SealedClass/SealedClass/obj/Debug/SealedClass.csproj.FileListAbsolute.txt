@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\SealedClass\SealedClass\bin\Debug\SealedClass.exe.config
+C:\Users\bhoya\source\repos\SealedClass\SealedClass\bin\Debug\SealedClass.exe
+C:\Users\bhoya\source\repos\SealedClass\SealedClass\bin\Debug\SealedClass.pdb
+C:\Users\bhoya\source\repos\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\SealedClass\SealedClass\obj\Debug\SealedClass.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\SealedClass\SealedClass\obj\Debug\SealedClass.exe
+C:\Users\bhoya\source\repos\SealedClass\SealedClass\obj\Debug\SealedClass.pdb

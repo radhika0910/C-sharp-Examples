@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\TicketBooking\TicketBooking\bin\Debug\TicketBooking.exe.config
+C:\Users\bhoya\source\repos\TicketBooking\TicketBooking\bin\Debug\TicketBooking.exe
+C:\Users\bhoya\source\repos\TicketBooking\TicketBooking\bin\Debug\TicketBooking.pdb
+C:\Users\bhoya\source\repos\TicketBooking\TicketBooking\obj\Debug\TicketBooking.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\TicketBooking\TicketBooking\obj\Debug\TicketBooking.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\TicketBooking\TicketBooking\obj\Debug\TicketBooking.exe
+C:\Users\bhoya\source\repos\TicketBooking\TicketBooking\obj\Debug\TicketBooking.pdb

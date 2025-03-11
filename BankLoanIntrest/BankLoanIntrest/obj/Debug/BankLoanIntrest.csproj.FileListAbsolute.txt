@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\BankLoanIntrest\BankLoanIntrest\bin\Debug\BankLoanIntrest.exe.config
+C:\Users\bhoya\source\repos\BankLoanIntrest\BankLoanIntrest\bin\Debug\BankLoanIntrest.exe
+C:\Users\bhoya\source\repos\BankLoanIntrest\BankLoanIntrest\bin\Debug\BankLoanIntrest.pdb
+C:\Users\bhoya\source\repos\BankLoanIntrest\BankLoanIntrest\obj\Debug\BankLoanIntrest.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\BankLoanIntrest\BankLoanIntrest\obj\Debug\BankLoanIntrest.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\BankLoanIntrest\BankLoanIntrest\obj\Debug\BankLoanIntrest.exe
+C:\Users\bhoya\source\repos\BankLoanIntrest\BankLoanIntrest\obj\Debug\BankLoanIntrest.pdb

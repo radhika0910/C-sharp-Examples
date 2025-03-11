@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\bin\Debug\OnlineShoppingDiscountSystem.exe.config
+C:\Users\bhoya\source\repos\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\bin\Debug\OnlineShoppingDiscountSystem.exe
+C:\Users\bhoya\source\repos\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\bin\Debug\OnlineShoppingDiscountSystem.pdb
+C:\Users\bhoya\source\repos\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\obj\Debug\OnlineShoppingDiscountSystem.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\obj\Debug\OnlineShoppingDiscountSystem.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\obj\Debug\OnlineShoppingDiscountSystem.exe
+C:\Users\bhoya\source\repos\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\obj\Debug\OnlineShoppingDiscountSystem.pdb

@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\ExceptionHandeling\ExceptionHandeling\bin\Debug\ExceptionHandeling.exe.config
+C:\Users\bhoya\source\repos\ExceptionHandeling\ExceptionHandeling\bin\Debug\ExceptionHandeling.exe
+C:\Users\bhoya\source\repos\ExceptionHandeling\ExceptionHandeling\bin\Debug\ExceptionHandeling.pdb
+C:\Users\bhoya\source\repos\ExceptionHandeling\ExceptionHandeling\obj\Debug\ExceptionHandeling.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\ExceptionHandeling\ExceptionHandeling\obj\Debug\ExceptionHandeling.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\ExceptionHandeling\ExceptionHandeling\obj\Debug\ExceptionHandeling.exe
+C:\Users\bhoya\source\repos\ExceptionHandeling\ExceptionHandeling\obj\Debug\ExceptionHandeling.pdb

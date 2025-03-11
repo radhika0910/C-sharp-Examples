@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\Chatbot\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\bhoya\source\repos\Chatbot\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\bhoya\source\repos\Chatbot\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\bhoya\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\bhoya\source\repos\Chatbot\Chatbot\obj\Debug\Chatbot.pdb

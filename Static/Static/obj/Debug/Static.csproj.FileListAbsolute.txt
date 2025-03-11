@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\Static\Static\bin\Debug\Static.exe.config
+C:\Users\bhoya\source\repos\Static\Static\bin\Debug\Static.exe
+C:\Users\bhoya\source\repos\Static\Static\bin\Debug\Static.pdb
+C:\Users\bhoya\source\repos\Static\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\Static\Static\obj\Debug\Static.exe
+C:\Users\bhoya\source\repos\Static\Static\obj\Debug\Static.pdb

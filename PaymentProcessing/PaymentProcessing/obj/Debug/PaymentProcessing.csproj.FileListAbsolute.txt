@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\PaymentProcessing\PaymentProcessing\bin\Debug\PaymentProcessing.exe.config
+C:\Users\bhoya\source\repos\PaymentProcessing\PaymentProcessing\bin\Debug\PaymentProcessing.exe
+C:\Users\bhoya\source\repos\PaymentProcessing\PaymentProcessing\bin\Debug\PaymentProcessing.pdb
+C:\Users\bhoya\source\repos\PaymentProcessing\PaymentProcessing\obj\Debug\PaymentProcessing.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\PaymentProcessing\PaymentProcessing\obj\Debug\PaymentProcessing.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\PaymentProcessing\PaymentProcessing\obj\Debug\PaymentProcessing.exe
+C:\Users\bhoya\source\repos\PaymentProcessing\PaymentProcessing\obj\Debug\PaymentProcessing.pdb

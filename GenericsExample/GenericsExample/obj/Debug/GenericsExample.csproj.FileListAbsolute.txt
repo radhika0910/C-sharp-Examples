@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\GenericsExample\GenericsExample\bin\Debug\GenericsExample.exe.config
+C:\Users\bhoya\source\repos\GenericsExample\GenericsExample\bin\Debug\GenericsExample.exe
+C:\Users\bhoya\source\repos\GenericsExample\GenericsExample\bin\Debug\GenericsExample.pdb
+C:\Users\bhoya\source\repos\GenericsExample\GenericsExample\obj\Debug\GenericsExample.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\GenericsExample\GenericsExample\obj\Debug\GenericsExample.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\GenericsExample\GenericsExample\obj\Debug\GenericsExample.exe
+C:\Users\bhoya\source\repos\GenericsExample\GenericsExample\obj\Debug\GenericsExample.pdb

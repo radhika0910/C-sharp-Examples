@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\StudentIntrestTask\StudentIntrestTask\bin\Debug\StudentIntrestTask.exe.config
+C:\Users\bhoya\source\repos\StudentIntrestTask\StudentIntrestTask\bin\Debug\StudentIntrestTask.exe
+C:\Users\bhoya\source\repos\StudentIntrestTask\StudentIntrestTask\bin\Debug\StudentIntrestTask.pdb
+C:\Users\bhoya\source\repos\StudentIntrestTask\StudentIntrestTask\obj\Debug\StudentIntrestTask.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\StudentIntrestTask\StudentIntrestTask\obj\Debug\StudentIntrestTask.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\StudentIntrestTask\StudentIntrestTask\obj\Debug\StudentIntrestTask.exe
+C:\Users\bhoya\source\repos\StudentIntrestTask\StudentIntrestTask\obj\Debug\StudentIntrestTask.pdb

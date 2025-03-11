@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\ResturantOrdering\ResturantOrdering\bin\Debug\ResturantOrdering.exe.config
+C:\Users\bhoya\source\repos\ResturantOrdering\ResturantOrdering\bin\Debug\ResturantOrdering.exe
+C:\Users\bhoya\source\repos\ResturantOrdering\ResturantOrdering\bin\Debug\ResturantOrdering.pdb
+C:\Users\bhoya\source\repos\ResturantOrdering\ResturantOrdering\obj\Debug\ResturantOrdering.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\ResturantOrdering\ResturantOrdering\obj\Debug\ResturantOrdering.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\ResturantOrdering\ResturantOrdering\obj\Debug\ResturantOrdering.exe
+C:\Users\bhoya\source\repos\ResturantOrdering\ResturantOrdering\obj\Debug\ResturantOrdering.pdb

@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\IotDevice\IotDevice\bin\Debug\IotDevice.exe.config
+C:\Users\bhoya\source\repos\IotDevice\IotDevice\bin\Debug\IotDevice.exe
+C:\Users\bhoya\source\repos\IotDevice\IotDevice\bin\Debug\IotDevice.pdb
+C:\Users\bhoya\source\repos\IotDevice\IotDevice\obj\Debug\IotDevice.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\IotDevice\IotDevice\obj\Debug\IotDevice.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\IotDevice\IotDevice\obj\Debug\IotDevice.exe
+C:\Users\bhoya\source\repos\IotDevice\IotDevice\obj\Debug\IotDevice.pdb

@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\HomeDevice\HomeDevice\obj\Debug\HomeDevice.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\HomeDevice\HomeDevice\obj\Debug\HomeDevice.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\HomeDevice\HomeDevice\bin\Debug\HomeDevice.exe.config
+C:\Users\bhoya\source\repos\HomeDevice\HomeDevice\bin\Debug\HomeDevice.exe
+C:\Users\bhoya\source\repos\HomeDevice\HomeDevice\bin\Debug\HomeDevice.pdb
+C:\Users\bhoya\source\repos\HomeDevice\HomeDevice\obj\Debug\HomeDevice.exe
+C:\Users\bhoya\source\repos\HomeDevice\HomeDevice\obj\Debug\HomeDevice.pdb

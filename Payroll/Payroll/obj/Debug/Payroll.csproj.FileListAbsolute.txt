@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\bhoya\source\repos\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\bhoya\source\repos\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\bhoya\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\bhoya\source\repos\Payroll\Payroll\obj\Debug\Payroll.pdb

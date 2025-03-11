@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\LoggerRealtime\LoggerRealtime\bin\Debug\LoggerRealtime.exe.config
+C:\Users\bhoya\source\repos\LoggerRealtime\LoggerRealtime\bin\Debug\LoggerRealtime.exe
+C:\Users\bhoya\source\repos\LoggerRealtime\LoggerRealtime\bin\Debug\LoggerRealtime.pdb
+C:\Users\bhoya\source\repos\LoggerRealtime\LoggerRealtime\obj\Debug\LoggerRealtime.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\LoggerRealtime\LoggerRealtime\obj\Debug\LoggerRealtime.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\LoggerRealtime\LoggerRealtime\obj\Debug\LoggerRealtime.exe
+C:\Users\bhoya\source\repos\LoggerRealtime\LoggerRealtime\obj\Debug\LoggerRealtime.pdb

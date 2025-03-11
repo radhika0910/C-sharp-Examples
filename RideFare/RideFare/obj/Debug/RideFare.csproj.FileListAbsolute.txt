@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\RideFare\RideFare\bin\Debug\RideFare.exe.config
+C:\Users\bhoya\source\repos\RideFare\RideFare\bin\Debug\RideFare.exe
+C:\Users\bhoya\source\repos\RideFare\RideFare\bin\Debug\RideFare.pdb
+C:\Users\bhoya\source\repos\RideFare\RideFare\obj\Debug\RideFare.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\RideFare\RideFare\obj\Debug\RideFare.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\RideFare\RideFare\obj\Debug\RideFare.exe
+C:\Users\bhoya\source\repos\RideFare\RideFare\obj\Debug\RideFare.pdb

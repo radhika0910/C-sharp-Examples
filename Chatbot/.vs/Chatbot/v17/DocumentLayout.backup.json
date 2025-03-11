@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhoya\\source\\repos\\Chatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92D53CEF-230F-4519-9374-30E99BBEEE80}|Chatbot\\Chatbot.csproj|c:\\users\\bhoya\\source\\repos\\chatbot\\chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D53CEF-230F-4519-9374-30E99BBEEE80}|Chatbot\\Chatbot.csproj|solutionrelative:chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhoya\\source\\repos\\Chatbot\\Chatbot\\Program.cs",
+              "RelativeDocumentMoniker": "Chatbot\\Program.cs",
+              "ToolTip": "C:\\Users\\bhoya\\source\\repos\\Chatbot\\Chatbot\\Program.cs*",
+              "RelativeToolTip": "Chatbot\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwGUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:15:47.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\VehicleFactory\VehicleFactory\bin\Debug\VehicleFactory.exe.config
+C:\Users\bhoya\source\repos\VehicleFactory\VehicleFactory\bin\Debug\VehicleFactory.exe
+C:\Users\bhoya\source\repos\VehicleFactory\VehicleFactory\bin\Debug\VehicleFactory.pdb
+C:\Users\bhoya\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.exe
+C:\Users\bhoya\source\repos\VehicleFactory\VehicleFactory\obj\Debug\VehicleFactory.pdb
