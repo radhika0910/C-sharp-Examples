@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\Collections\EmpSalaryProcessing\EmpSalaryProcessing\bin\Debug\EmpSalaryProcessing.exe.config
+C:\Users\bhoya\source\repos\Collections\EmpSalaryProcessing\EmpSalaryProcessing\bin\Debug\EmpSalaryProcessing.exe
+C:\Users\bhoya\source\repos\Collections\EmpSalaryProcessing\EmpSalaryProcessing\bin\Debug\EmpSalaryProcessing.pdb
+C:\Users\bhoya\source\repos\Collections\EmpSalaryProcessing\EmpSalaryProcessing\obj\Debug\EmpSalaryProcessing.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\Collections\EmpSalaryProcessing\EmpSalaryProcessing\obj\Debug\EmpSalaryProcessing.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\Collections\EmpSalaryProcessing\EmpSalaryProcessing\obj\Debug\EmpSalaryProcessing.exe
+C:\Users\bhoya\source\repos\Collections\EmpSalaryProcessing\EmpSalaryProcessing\obj\Debug\EmpSalaryProcessing.pdb
