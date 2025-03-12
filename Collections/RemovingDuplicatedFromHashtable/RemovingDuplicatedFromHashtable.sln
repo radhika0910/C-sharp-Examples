@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemovingDuplicatedFromHashtable", "RemovingDuplicatedFromHashtable\RemovingDuplicatedFromHashtable.csproj", "{DCA3E7B8-D1E7-4072-B550-FCC6BA8CE21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA3E7B8-D1E7-4072-B550-FCC6BA8CE21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA3E7B8-D1E7-4072-B550-FCC6BA8CE21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA3E7B8-D1E7-4072-B550-FCC6BA8CE21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA3E7B8-D1E7-4072-B550-FCC6BA8CE21A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08AD90BB-9D8A-4353-8894-2069361AD1A9}
+	EndGlobalSection
+EndGlobal

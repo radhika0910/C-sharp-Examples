@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhoya\\source\\repos\\Collections\\DuplicateEntriesRemoval\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E1314C-6652-40DC-BC62-6B825EC29B0B}|DuplicateEntriesRemoval\\DuplicateEntriesRemoval.csproj|c:\\users\\bhoya\\source\\repos\\collections\\duplicateentriesremoval\\duplicateentriesremoval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E1314C-6652-40DC-BC62-6B825EC29B0B}|DuplicateEntriesRemoval\\DuplicateEntriesRemoval.csproj|solutionrelative:duplicateentriesremoval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhoya\\source\\repos\\Collections\\DuplicateEntriesRemoval\\DuplicateEntriesRemoval\\Program.cs",
+              "RelativeDocumentMoniker": "DuplicateEntriesRemoval\\Program.cs",
+              "ToolTip": "C:\\Users\\bhoya\\source\\repos\\Collections\\DuplicateEntriesRemoval\\DuplicateEntriesRemoval\\Program.cs",
+              "RelativeToolTip": "DuplicateEntriesRemoval\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:48:31.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
