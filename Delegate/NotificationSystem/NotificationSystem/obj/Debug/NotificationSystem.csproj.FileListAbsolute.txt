@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\Delegate\NotificationSystem\NotificationSystem\bin\Debug\NotificationSystem.exe.config
+C:\Users\bhoya\source\repos\Delegate\NotificationSystem\NotificationSystem\bin\Debug\NotificationSystem.exe
+C:\Users\bhoya\source\repos\Delegate\NotificationSystem\NotificationSystem\bin\Debug\NotificationSystem.pdb
+C:\Users\bhoya\source\repos\Delegate\NotificationSystem\NotificationSystem\obj\Debug\NotificationSystem.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\Delegate\NotificationSystem\NotificationSystem\obj\Debug\NotificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\Delegate\NotificationSystem\NotificationSystem\obj\Debug\NotificationSystem.exe
+C:\Users\bhoya\source\repos\Delegate\NotificationSystem\NotificationSystem\obj\Debug\NotificationSystem.pdb

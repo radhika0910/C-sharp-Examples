@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\Delegate\TempMonitor\TempMonitor\bin\Debug\TempMonitor.exe.config
+C:\Users\bhoya\source\repos\Delegate\TempMonitor\TempMonitor\bin\Debug\TempMonitor.exe
+C:\Users\bhoya\source\repos\Delegate\TempMonitor\TempMonitor\bin\Debug\TempMonitor.pdb
+C:\Users\bhoya\source\repos\Delegate\TempMonitor\TempMonitor\obj\Debug\TempMonitor.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\Delegate\TempMonitor\TempMonitor\obj\Debug\TempMonitor.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\Delegate\TempMonitor\TempMonitor\obj\Debug\TempMonitor.exe
+C:\Users\bhoya\source\repos\Delegate\TempMonitor\TempMonitor\obj\Debug\TempMonitor.pdb
