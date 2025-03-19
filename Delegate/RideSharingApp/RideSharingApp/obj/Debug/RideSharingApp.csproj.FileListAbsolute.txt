@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\Delegate\RideSharingApp\RideSharingApp\bin\Debug\RideSharingApp.exe.config
+C:\Users\bhoya\source\repos\Delegate\RideSharingApp\RideSharingApp\bin\Debug\RideSharingApp.exe
+C:\Users\bhoya\source\repos\Delegate\RideSharingApp\RideSharingApp\bin\Debug\RideSharingApp.pdb
+C:\Users\bhoya\source\repos\Delegate\RideSharingApp\RideSharingApp\obj\Debug\RideSharingApp.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\Delegate\RideSharingApp\RideSharingApp\obj\Debug\RideSharingApp.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\Delegate\RideSharingApp\RideSharingApp\obj\Debug\RideSharingApp.exe
+C:\Users\bhoya\source\repos\Delegate\RideSharingApp\RideSharingApp\obj\Debug\RideSharingApp.pdb
