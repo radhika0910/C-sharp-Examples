@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\ConfigProj\ConfigProj\bin\Debug\ConfigProj.exe.config
+C:\Users\bhoya\source\repos\ConfigProj\ConfigProj\bin\Debug\ConfigProj.exe
+C:\Users\bhoya\source\repos\ConfigProj\ConfigProj\bin\Debug\ConfigProj.pdb
+C:\Users\bhoya\source\repos\ConfigProj\ConfigProj\obj\Debug\ConfigProj.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\ConfigProj\ConfigProj\obj\Debug\ConfigProj.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\ConfigProj\ConfigProj\obj\Debug\ConfigProj.exe
+C:\Users\bhoya\source\repos\ConfigProj\ConfigProj\obj\Debug\ConfigProj.pdb

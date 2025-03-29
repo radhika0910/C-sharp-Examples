@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\ExtentionExamples\ExtentionExamples\bin\Debug\ExtentionExamples.exe.config
+C:\Users\bhoya\source\repos\ExtentionExamples\ExtentionExamples\bin\Debug\ExtentionExamples.exe
+C:\Users\bhoya\source\repos\ExtentionExamples\ExtentionExamples\bin\Debug\ExtentionExamples.pdb
+C:\Users\bhoya\source\repos\ExtentionExamples\ExtentionExamples\obj\Debug\ExtentionExamples.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\ExtentionExamples\ExtentionExamples\obj\Debug\ExtentionExamples.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\ExtentionExamples\ExtentionExamples\obj\Debug\ExtentionExamples.exe
+C:\Users\bhoya\source\repos\ExtentionExamples\ExtentionExamples\obj\Debug\ExtentionExamples.pdb

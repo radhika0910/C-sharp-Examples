@@ -1,0 +1,7 @@
+C:\Users\bhoya\source\repos\ConfigProj\FieldHelperApp\obj\Debug\FieldHelperApp.csproj.AssemblyReference.cache
+C:\Users\bhoya\source\repos\ConfigProj\FieldHelperApp\obj\Debug\FieldHelperApp.csproj.CoreCompileInputs.cache
+C:\Users\bhoya\source\repos\ConfigProj\FieldHelperApp\bin\Debug\FieldHelperApp.exe.config
+C:\Users\bhoya\source\repos\ConfigProj\FieldHelperApp\bin\Debug\FieldHelperApp.exe
+C:\Users\bhoya\source\repos\ConfigProj\FieldHelperApp\bin\Debug\FieldHelperApp.pdb
+C:\Users\bhoya\source\repos\ConfigProj\FieldHelperApp\obj\Debug\FieldHelperApp.exe
+C:\Users\bhoya\source\repos\ConfigProj\FieldHelperApp\obj\Debug\FieldHelperApp.pdb
